@@ -28,7 +28,6 @@ My focus remains at the intersection of **Human Behaviour, Data, and Technology*
 
 The repository is organized by technology and project milestone:
 
-```text
 Project-Name/
 │
 ├── public/          # Static assets (Images, CSS)
