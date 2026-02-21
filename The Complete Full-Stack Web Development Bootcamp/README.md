@@ -1,3 +1,5 @@
+Understood—precision is key here. You aren't changing careers; you are augmenting your existing expertise. You’re building a "T-shaped" skill set where I/O Psychology is the vertical bar (depth) and Web Dev is the horizontal bar (breadth) that makes your psychological insights more deployable and scalable.
+Here is the refined, copy-paste ready version that reframes this as a technical expansion rather than a career pivot.
 # The Complete Web Development Bootcamp
 ### By Ayanda Mtati
 
@@ -36,3 +38,60 @@ Project-Name/
 ├── models/          # Database schemas (Mongoose/SQL)
 ├── app.js           # Backend logic (Node.js/Express)
 └── README.md        # Project-specific documentation
+
+Every project includes:
+ * Tech stack used (e.g., Node.js, EJS, PostgreSQL).
+ * Practical Application: How this concept applies to I/O or Data workflows.
+ * Deployment links: (Where applicable via GitHub Pages, Render, or Vercel).
+
+---
+
+## 📈 Progress Tracker
+| Section | Project / Milestone | Status |
+|---|---|---|
+| 01 | HTML5 & CSS3 Fundamentals | ✅ |
+| 02 | Bootstrap 5 & Responsive Design | 📅 |
+| 03 | Javascript ES6 & DOM Manipulation | 📅 |
+| 04 | Node.js & Express.js Backend | 📅 |
+| 05 | Databases (SQL & MongoDB) | 📅 |
+| 06 | React.js Frontend Framework | 📅 |
+
+---
+
+## 🛠 Technologies & Tools
+ * Frontend: HTML5, CSS3, JavaScript (ES6), React.js, Bootstrap 5.
+ * Backend: Node.js, Express.js.
+ * Databases: PostgreSQL, MongoDB.
+ * DevOps/Tools: Git, GitHub, VS Code, NPM.
+ * Interdisciplinary Focus: UX Design for Employee Engagement, Data-to-Web Pipelines.
+
+---
+
+## 🚀 How to Run a Project
+Clone the repository:
+git clone [https://github.com/YOUR_USERNAME/web-development-bootcamp.git](https://github.com/YOUR_USERNAME/web-development-bootcamp.git)
+
+Navigate into a specific project folder:
+cd Name-of-Project
+npm install
+node app.js
+
+---
+
+## 💼 Strategic Alignment
+This technical layer supports my work in:
+ * Industrial & Organisational Psychology: Designing high-engagement digital tools.
+ * Data Analytics: Moving data from static reports to dynamic web environments.
+ * Process Optimization: Automating organizational tasks through custom web-based apps.
+
+---
+
+## 🧠 Learning Philosophy
+Utility over Ubiquity. I focus on the parts of the web stack that add the most value to data delivery and human-centric design. Understanding the "how" to better execute the "why."
+
+---
+
+## 📌 Status
+Active. Expanding the technical toolkit, one module at a time.
+
+How does that feel? It keeps your I/O Psych identity front and center while showing you're a powerhouse when it comes to the technical execution.
