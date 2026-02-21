@@ -1,5 +1,3 @@
-Understood—precision is key here. You aren't changing careers; you are augmenting your existing expertise. You’re building a "T-shaped" skill set where I/O Psychology is the vertical bar (depth) and Web Dev is the horizontal bar (breadth) that makes your psychological insights more deployable and scalable.
-Here is the refined, copy-paste ready version that reframes this as a technical expansion rather than a career pivot.
 # The Complete Web Development Bootcamp
 ### By Ayanda Mtati
 
@@ -93,5 +91,3 @@ Utility over Ubiquity. I focus on the parts of the web stack that add the most v
 
 ## 📌 Status
 Active. Expanding the technical toolkit, one module at a time.
-
-How does that feel? It keeps your I/O Psych identity front and center while showing you're a powerhouse when it comes to the technical execution.
